@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "strapi-plugin-notes": "^1.0.1"
+  }
+}
